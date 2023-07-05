@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "979930946453",
+    "project_id": "sociowall-d541d",
+    "storage_bucket": "sociowall-d541d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979930946453:android:80e2635a3ddb304072f49c",
+        "android_client_info": {
+          "package_name": "com.example.quizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979930946453-adt24rakiucbl0i2moren7fvjeign0sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizz",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "979930946453-dbnmh8rs8qv86c8k2ebpo2h9880bt6s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSu5pPhSQPnZhjyiC3ZgvnrjnSWfCuwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979930946453-dbnmh8rs8qv86c8k2ebpo2h9880bt6s2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979930946453-hfp6ckr8dvf9e6kl5hvcr9anibojg5nr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979930946453:android:e0eea64c1502486472f49c",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979930946453-dbnmh8rs8qv86c8k2ebpo2h9880bt6s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSu5pPhSQPnZhjyiC3ZgvnrjnSWfCuwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979930946453-dbnmh8rs8qv86c8k2ebpo2h9880bt6s2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979930946453-hfp6ckr8dvf9e6kl5hvcr9anibojg5nr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
