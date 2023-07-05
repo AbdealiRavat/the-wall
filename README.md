@@ -1,6 +1,7 @@
 # The Wall
 
-  ![loginPage](https://github.com/AbdealiRavat/the-wall/assets/71277590/0f0d39ba-a439-43a7-8082-7e2a05e5c875) ![home](https://github.com/AbdealiRavat/the-wall/assets/71277590/23d88da3-1aac-4fcb-b6f6-4f5397a20ce5)
+  ![loginPage](https://github.com/AbdealiRavat/the-wall/assets/71277590/0f0d39ba-a439-43a7-8082-7e2a05e5c875) ![home](https://github.com/AbdealiRavat/the-wall/assets/71277590/c3842413-dc9a-4423-88eb-3d8c23a6a67e)
+
 
 
 The Wall is a Flutter application that provides a platform for users to share messages on a public wall. It includes features such as authentication, a profile page, posting messages to the wall, and displaying posts from other users.
